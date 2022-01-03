@@ -1,0 +1,22 @@
+{
+  "recipe": [
+    {
+      "title": "Banana Shake",
+      "ingredients": "Banana, Milk",
+      "ttc": "15",
+      "instructions": "Blend",
+      "image": null,
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "Apple Shake",
+      "ingredients": "Apple",
+      "ttc": "10",
+      "instructions": "Cut",
+      "image": null,
+      "status": false,
+      "id": 2
+    }
+  ]
+}
